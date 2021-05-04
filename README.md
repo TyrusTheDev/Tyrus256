@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tyrus256
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML, CSS, & JAVA
+- 🌱 I’m currently learning Front End Web Dev
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me tyrusbradley256@icloud.com
 
